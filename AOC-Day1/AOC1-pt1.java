@@ -3,8 +3,7 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 
-public class AOC1 {
-
+public class AOCDay1Part1 {
     public static void main(String args[]) throws IOException {
         int countIncrease = 0;
         try {
